@@ -1,0 +1,10 @@
+.card {
+    height: 200px;
+    width: 200px;
+    background-color: peachpuff;
+}
+.text-center {
+    padding-top: 70px;
+    font-size: x-large;
+    font-weight: bold;
+}
