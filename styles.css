@@ -1,10 +1,13 @@
-.card {
-    height: 200px;
-    width: 50%;
-    background-color: peachpuff;
+*{
+    background-color: #333333; 
 }
-.text-center {
-    padding-top: 70px;
-    font-size: x-large;
-    font-weight: bold;
+.navbar {
+    color: white;
+    font-size: larger;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
